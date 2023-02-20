@@ -1,23 +1,13 @@
 * {
     margin: 0px;
     padding: 0px;
-    position: relative;
-    /* background-color: black; */
+    
 
 }
-navbar{
-    background-color: aliceblue;
-}
-.nav-link {
-    color: black;
-    font-size: 1rem;
-    font-weight: 700;
-    cursor: pointer;
-    text-decoration: none;
-}
+
 
 .nav-link:hover {
-    color: white;
+
     background-color: lightslategrey;
 
 
@@ -221,7 +211,9 @@ h3 {
 .container img {
     padding: 10px;
 }
-
+.para{
+    font-weight: 500;
+}
 
 
 /* porofolio */
